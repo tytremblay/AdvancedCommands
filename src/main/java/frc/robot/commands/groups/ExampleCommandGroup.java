@@ -5,15 +5,15 @@
 /* the project.                                                               */
 /*----------------------------------------------------------------------------*/
 
-package frc.robot.command_groups;
+package frc.robot.commands.groups;
 
 import edu.wpi.first.wpilibj.command.CommandGroup;
 
-public class ListOfCommands extends CommandGroup {
+public class ExampleCommandGroup extends CommandGroup {
   /**
    * Add your docs here.
    */
-  public ListOfCommands() {
+  public ExampleCommandGroup() {
     // Add Commands here:
     // e.g. addSequential(new Command1());
     // addSequential(new Command2());
